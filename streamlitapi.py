@@ -10,13 +10,13 @@ def main():
 
     # Define car brands and their corresponding models
     car_data = {
-    'Ambassador': ['CLASSIC', 'Grand', 'Classic'],
+    'Ambassador': ['Grand', 'Classic'],
     'Chevrolet': ['Spark', 'Aveo', 'Sail', 'Cruze', 'Optra', 'Beat'],
     'Daewoo': ['Matiz'],
     'Datsun': ['GO', 'RediGO'],
     'Fiat': ['Linea', 'Grande Punto', 'Punto', 'Avventura'],
     'Ford': [
-        'Freestyle', 'Fusion', 'EcoSport', 'Ecosport', 'Ikon',
+        'Freestyle', 'Fusion', 'EcoSport', 'Ikon',
         'Aspire', 'Classic', 'Figo', 'Fiesta'
     ],
     'Honda': ['Civic', 'Amaze', 'City', 'Jazz', 'WR-V', 'Brio'],
