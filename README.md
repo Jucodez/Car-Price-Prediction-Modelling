@@ -15,4 +15,4 @@ The model building process involved the following key steps:
 
 ## Application
 
-A live version of this model is available at https://car-price-prediction-model-juwon.streamlit.app/
+A live version of this model is available for use at https://car-price-prediction-model-juwon.streamlit.app/
