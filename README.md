@@ -1,12 +1,15 @@
 # Car Price Prediction Model
 
 ## Introduction
-This repository contains a predictive analytics model that aids online car marketplaces set competitive prices for used cars for their users.
+This repository contains a predictive analytics model that aids an auto finance company determine fair car prices for loan applications.
 
 This model uses key information about a car to make predictions about its prices. Predictors considered by the model based on the clients specifications are car brand, car model, owner type, seller type, transmission, fuel type, year of manufactor, distance driven, engine capacity, maximum power, and fuel efficiency.
 
 ## Technical overview
-The model building process involved the following key steps:
+
+A random forest model was trained on the relevant data after approprate preprocessing, model selection amongst other things.
+
+The overall model building process involved the following key steps:
 - Data cleaning and preprocessing
 - Feature selection
 - Model selection
