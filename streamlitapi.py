@@ -95,7 +95,7 @@ def main():
                 prediction = model.predict(input_data)
                 output = round(prediction[0] * 19.61, -3)
                 formatted_output = "{:,.0f}".format(output)
-                st.success(f'You Can Sell Your Car for {formatted_output} Naira')
+                st.success(f'You can sell your car for {formatted_output} Naira')
             except Exception as e:
                 st.error(f"An error occurred during prediction: {e}")
 
